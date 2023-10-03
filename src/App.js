@@ -6,10 +6,10 @@ import Fetchdata from "./Components/Fetchdata/Fetchdata.jsx";
 function App() {
   return (
     <div>
-      {/* <Navbar></Navbar>
+      <Navbar></Navbar>
       <Financial></Financial>
-      <Retirement></Retirement> */}
-      <Fetchdata></Fetchdata>
+      <Retirement></Retirement>
+      {/* <Fetchdata></Fetchdata> */}
     </div>
   );
 }
