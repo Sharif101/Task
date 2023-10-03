@@ -9,7 +9,7 @@ function App() {
       <Navbar></Navbar>
       <Financial></Financial>
       <Retirement></Retirement>
-      {/* <Fetchdata></Fetchdata> */}
+      <Fetchdata></Fetchdata>
     </div>
   );
 }
